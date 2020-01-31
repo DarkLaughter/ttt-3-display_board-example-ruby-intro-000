@@ -2,4 +2,3 @@
 def display_board
 prints "3x3 Tic Tac Toe Board"
 end
-
